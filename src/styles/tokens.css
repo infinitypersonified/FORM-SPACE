@@ -1,0 +1,21 @@
+:root {
+  font-family: 'DM Sans', sans-serif;
+  color: #262723;
+  background: #e9e7e0;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  --paper: #e9e7e0;
+  --paper-light: #f1efe9;
+  --ink: #262723;
+  --muted: #77786f;
+  --line: rgba(38, 39, 35, 0.19);
+  --line-light: rgba(233, 231, 224, 0.24);
+  --accent: #bd563c;
+  --serif: 'Playfair Display', Georgia, serif;
+  --sans: 'DM Sans', sans-serif;
+  --mono: 'DM Mono', monospace;
+  --gutter: clamp(20px, 5.2vw, 84px);
+  --content: 1600px;
+}
